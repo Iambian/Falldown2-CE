@@ -66,7 +66,13 @@ Troubleshooting
 
 License
 -------
-I use the MIT license for this project. See `LICENSE` for more details.
+* I use the MIT license for this project. See `LICENSE` for more details.
+* SPASM.exe is released under the GNU GPL, copyrighted by many authors.
+	See [here](https://github.com/alberthdev/spasm-ng} for more details on
+	the program itself.
+* ZX7.exe is released under the "BSD-3" license, copyrighted by Einar Saukas.
+	I don't remember where I got the executable from, but Googling
+	"zx7 windows decompressor" got me good results.
 
 Version History
 ---------------
